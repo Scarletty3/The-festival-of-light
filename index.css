@@ -36,7 +36,10 @@ body{
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background-color: #fff9e6;
+  background-image: url(Sophisticated\ Minimal\ Flat\ Design\ Logo_20251014_125530_0000.webp);
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
   margin-right: 10px;
   flex-shrink: 0;
 }
