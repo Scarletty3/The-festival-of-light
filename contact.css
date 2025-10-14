@@ -323,8 +323,22 @@ border: none;
     animation-timeline: view(80% 20%);
        
       }
+      .fa-location-dot{
+        padding: 20px 30px;
+      }
+      .fa-phone-volume , .fa-envelope{
+        padding: 20px 20px;
+      }
+    .fa-truck{
+      padding: 10px 30px ;
+      font-size: 2rem;
+    }
+    .fa-bag-shopping{
+      font-size: 2rem;
+      padding-bottom: 18px;
+    }
       .epl div i {
-        padding: 3vh 2vw;
+ 
         background: #F58C25;
         color:white;
         border-radius: 50%;
