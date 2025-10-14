@@ -713,7 +713,9 @@ footer {
     box-shadow: 0 0 5px rgba(43, 28, 18, 0.5);
     flex-shrink: 0;
   }
-  
+  body{
+    font-family: "Exo 2";
+  }
   .social-container a::before {
     content: attr(data-text);
     position: absolute;
