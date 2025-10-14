@@ -476,6 +476,8 @@ border: none;
         font-family: var(--font-family-header);
         color: #533928;
         font-weight:400;
+        padding-bottom: 20px;
+        top: -10%;
       }
       .n-e .na {
         top: 0%;
@@ -514,7 +516,7 @@ border: none;
         font-family: var(--font-family-header);
         color: #533928;
         font-weight:400;
-        top: 0%;
+        top: -10%;
         left: 7.5%;
         translate: -50% 0%;
         
@@ -540,13 +542,12 @@ border: none;
       
       .mes h2 {
         position: absolute;
-        position: absolute;  
-        position: absolute;
+       
         font-size: 1.8vw;
         font-family: var(--font-family-header);
         color: #533928;
         font-weight:400;
-        top: -2%;
+        top: -5%;
         left: 8.5%;
         translate: -50% 0%;
       }
