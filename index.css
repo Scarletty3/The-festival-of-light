@@ -725,7 +725,7 @@ footer {
   /* homeP3 */
   .home-part3{
     height: 1800px;
-    margin-top: 200px;
+    margin-top: 300px;
   }
   .P3-P1, .P3-P2{
     flex-direction: column;
