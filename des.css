@@ -257,11 +257,11 @@
   }
   
   .icon {
-    height: 5vh;
-    width: 3vw;
+    height: 45px;
+    width: 50px;
     background:#F58C25;
     z-index:4;
-    margin-left: -0.5vw;
+    margin-left: 50px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -348,6 +348,7 @@
     display: flex;
     justify-content: center;
     margin-bottom: 15vh;
+    margin-top: 100px;
   animation: moveup both;
   animation-timeline: view(80% 20%);
     
@@ -538,7 +539,8 @@
       font-size: 2vw;
     }
     .icon {
-      width: 30px;
+      width: 50px;
+      height: 35px;
     }
     
     .rcp {
